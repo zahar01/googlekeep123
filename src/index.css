@@ -1,0 +1,13 @@
+
+body {
+  margin: 40px;
+  padding: 0;
+  font-family: Futura, sans-serif;
+  background-color: CadetBlue;
+}
+
+h1 {
+  font-family: Futura, sans-serif;
+  font-size: 50px;
+  color: darkred;
+}
